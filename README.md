@@ -159,3 +159,34 @@ SECTION 3
 
     Document the three processes that connected to 205.134.253.10:4444.
     Document the name and purpose of the software you discovered.
+
+<br />
+<p align="center">
+<img src="https://i.imgur.com/I8Rt2uM.jpeg" height="80%" width="80%" alt="forensics"/>
+<br />
+<br />
+<img src="https://i.imgur.com/gJMNOkh.jpeg" height="80%" width="80%" alt="forensics"/>
+<br />
+<br />
+<img src="https://i.imgur.com/cKkUGLl.jpeg" height="80%" width="80%" alt="forensics"/>
+<br />
+<br />
+<img src="https://i.imgur.com/2P62KiK.jpeg" height="80%" width="80%" alt="forensics"/>
+<br />
+<br />
+<img src="https://i.imgur.com/OMkYoo5.jpeg" height="80%" width="80%" alt="forensics"/>
+<br />
+<br />
+<img src="https://i.imgur.com/yKHoCCD.jpeg" height="80%" width="80%" alt="forensics"/>
+<br />
+<br />
+<img src="https://i.imgur.com/1yd22UY.jpeg" height="80%" width="80%" alt="forensics"/>
+<br />
+<br />
+<img src="https://i.imgur.com/ZE0kHH5.jpeg" height="80%" width="80%" alt="forensics"/>
+<br />
+<br />
+<img src="https://i.imgur.com/OpGoqZu.jpeg" height="80%" width="80%" alt="forensics"/>
+<br />
+<br />
+</p>
